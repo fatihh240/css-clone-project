@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+.container {
+    color: #926239 ;
+    height:100vh;
+    background-size:cover;
+    background-position:center;
+   background-repeat: no-repeat;
+   background-image:url('http://traversymedia.com/downloads/assets/beachshowcase.jpg');
+}
+.container h1{
+    padding-top: 20%;
+    font-size:50px;
+    line-height:1.2;
+}
+.container p{
+    font-size:20px;
+}
+.read_more{
+    margin-top: 15px;
+    color: #926239 ;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px;
+    border: 2px solid #926239;
+    border-radius: 10px;
+}
+.read_more:hover{
+    background-color:#926239 ;
+    color: #fff;
+}
+.all_p {
+    display: inline-flex;
+   text-align: center;
+}
+.ikili_ust{
+    color: white;
+    padding: 15px;
+    font-size:20px;
+    background-color: #926239;
+}
+.ikili_alt{
+   padding-top: 15px;
+    font-size:20px;
+    background-color: #fff;
+}
+
+.uclu p{
+    font-size:20px;
+    padding-top: 15px;
+    float: left;
+    width: 33%;
+    background-color: #926239;
+}
+.uclu_orta{
+    font-size:20px;
+    padding-top: 15px;
+    float: left;
+    width: 33%;
+}
